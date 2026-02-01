@@ -15,7 +15,7 @@ export const PERSONAL_INFO = {
 export const EXPERIENCES: Experience[] = [
   {
     id: "vivo",
-    company: "PT vivo Mobile Indonesia",
+    company: "vivo Indonesia",
     role: "Process Quality Engineer",
     location: "Tangerang, Indonesia",
     period: "2022/07 – Present",
@@ -29,7 +29,7 @@ export const EXPERIENCES: Experience[] = [
   },
   {
     id: "gesits",
-    company: "GESITS-Hyundai EV Development",
+    company: "Hyundai Kefico EV Project",
     role: "Research Staff Engineer",
     location: "Jakarta, Indonesia",
     period: "2021/12 – 2022/06",
@@ -43,7 +43,7 @@ export const EXPERIENCES: Experience[] = [
     id: "gec",
     company: "Global Ecocentric Consultant",
     role: "Mechanical Engineer",
-    location: "West Java, Indonesia",
+    location: "Bekasi, Indonesia",
     period: "2021/09 – 2022/07",
     description: [
       "Designed 7 mechanical and infrastructure systems for waste management and mineral processing plants.",
@@ -55,7 +55,7 @@ export const EXPERIENCES: Experience[] = [
     id: "agc",
     company: "Artisanal Gold Council",
     role: "Mineral Processing Engineer",
-    location: "North Sulawesi & Central Kalimantan, Indonesia",
+    location: "Sampit & Kotamobagu, Indonesia",
     period: "2020/08 – 2021/10",
     description: [
       "Improved Parenggean Gold Plant operation, reducing maintenance time up to 66% monthly.",
@@ -65,7 +65,7 @@ export const EXPERIENCES: Experience[] = [
   },
   {
     id: "its",
-    company: "Rekayasa Material dan Teknologi Pertahanan ITS",
+    company: "Materials Laboratory for Defense Technology ITS",
     role: "Materials Engineer",
     location: "Surabaya, Indonesia",
     period: "2018/03 – 2020/07",
@@ -82,9 +82,9 @@ export const EDUCATION: Education = {
   degree: "Materials and Metallurgical Engineering",
   degreeLevel: "Bachelor of Engineering",
   gpa: "3.46 / 4.00",
-  period: "2015-2020",
+  period: "2015/08-2020/02",
   details: [
-    "Final Project: Delamination Simulation in GFRP and CFRP Composites using CZM and VCCT methods.",
+    "Final Project: FEA-based Mathematical Approach Comparison of CZM and VCCT Method on GFRP and CFRP Material Composites.",
     "Goal: Compare mathematical approaches for composite analysis accuracy."
   ]
 };
