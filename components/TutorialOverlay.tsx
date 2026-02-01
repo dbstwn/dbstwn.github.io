@@ -32,7 +32,7 @@ const TutorialOverlay: React.FC<TutorialOverlayProps> = ({ onComplete }) => {
             <div className="text-center mb-12 relative z-10">
                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-primary/30 bg-primary/10 text-primary text-xs font-mono mb-4 tracking-widest uppercase">
                     <span className="w-2 h-2 rounded-full bg-primary animate-pulse"></span>
-                    System Protocol
+                    Entering Preparation
                 </div>
                 <h2 className="text-3xl md:text-5xl font-bold text-white tracking-tight mb-2">Navigation Controls</h2>
                 <p className="text-gray-400">Master the interface to explore the portfolio.</p>
